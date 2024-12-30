@@ -3,6 +3,8 @@ public class HelloWorld {
 		
 	}
 	
+	void printHelloWorld() {}
+	
 	
 	
 }
